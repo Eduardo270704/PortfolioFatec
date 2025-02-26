@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Eduardo270704.github.io/PortfolioFatec",
   "dependencies": {
     "@types/react-router-dom": "^5.3.3",
     "react": "^18.3.1",
