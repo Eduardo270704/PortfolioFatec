@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/PortfolioFatec/static/js/main.60e02e9b.js",
+    "main.js": "/PortfolioFatec/static/js/main.7825fa9a.js",
     "static/media/SIDA.gif": "/PortfolioFatec/static/media/SIDA.4c45adc863d6e58b1b91.gif",
     "static/media/bikepass.gif": "/PortfolioFatec/static/media/bikepass.7c76a26442e07189ddfe.gif",
     "static/media/FOTRodinProEB.otf": "/PortfolioFatec/static/media/FOTRodinProEB.50ee472ff88172730f64.otf",
@@ -8,9 +8,9 @@
     "static/media/perfil.jpg": "/PortfolioFatec/static/media/perfil.91f05912c6c7ed9a6991.jpg",
     "static/media/visionaDashboard.png": "/PortfolioFatec/static/media/visionaDashboard.29d47aab40ef5d9250a3.png",
     "index.html": "/PortfolioFatec/index.html",
-    "main.60e02e9b.js.map": "/PortfolioFatec/static/js/main.60e02e9b.js.map"
+    "main.7825fa9a.js.map": "/PortfolioFatec/static/js/main.7825fa9a.js.map"
   },
   "entrypoints": [
-    "static/js/main.60e02e9b.js"
+    "static/js/main.7825fa9a.js"
   ]
 }
