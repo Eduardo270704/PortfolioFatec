@@ -46,7 +46,6 @@ const HW = styled.div`
   letter-spacing: 5px;
   color: #504d3e;
   line-height: 1.2;
-  z-index: 1;
   position: relative;
 `;
 
@@ -55,6 +54,10 @@ const Text = styled.div`
   font-size: 18px;
   align-items: center;
   font-weight: 400;
+
+  @media (max-width: 398px) {
+    word-break: break-word;
+  }
 `;
 
 const LinkedIn = styled.a`

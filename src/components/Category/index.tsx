@@ -39,6 +39,10 @@ const GlitchWrapper = styled.div<{ selected: boolean }>`
   &:hover {
     background-color: #5a584c;
   }
+
+  @media (max-width: 820px) {
+    justify-content: flex-start;
+  }
 `;
 
 const Sld = styled.div<{ selected: boolean; hovered: boolean }>`

@@ -78,6 +78,11 @@ const Buttons = styled.div`
   align-items: center;
   gap: 20px;
   margin-top: 20px;
+
+  @media (max-width: 480px) {
+    flex-direction: column;
+    gap: 15px;
+  }
 `;
 
 const Button = styled.button`

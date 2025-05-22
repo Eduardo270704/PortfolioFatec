@@ -138,6 +138,20 @@ const Projects = () => {
 const Content = styled.div`
   display: flex;
   justify-content: space-between;
+  align-items: center;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  @media (max-width: 480px) {
+    justify-content: center;
+    align-items: center;
+  }
 `;
 
 const Text = styled.div`

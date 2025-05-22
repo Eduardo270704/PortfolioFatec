@@ -46,6 +46,10 @@ const Description = styled.div`
   font-weight: 400;
   margin-top: 0px;
   width: 90%;
+
+  @media (max-width: 820px) {
+    width: 100%;
+  }
 `;
 
 const Text = styled.div`
@@ -62,6 +66,10 @@ const HorizontalRule = styled.hr`
   width: 90%;
   background-color: #e3dbb2;
   margin-left: 0;
+
+  @media (max-width: 820px) {
+    width: 100%;
+  }
 `;
 
 const ToolsListContainer = styled.ul`
@@ -74,6 +82,10 @@ const ToolsListContainer = styled.ul`
   flex-wrap: wrap;
   gap: 10px;
   justify-content: flex-start;
+
+  @media (max-width: 820px) {
+    width: 100%;
+  }
 `;
 
 const ToolItem = styled.li`
@@ -85,9 +97,30 @@ const ToolItem = styled.li`
   border-radius: 5px;
   transition: background-color 0.3s ease;
   width: 40%;
+
   &:hover {
     background-color: #504d3e;
     color: #efe9cc;
+  }
+
+  @media (max-width: 820px) {
+    width: 46%;
+  }
+
+  @media (max-width: 694px) {
+    width: 43%;
+  }
+
+  @media (max-width: 480px) {
+    width: 43%;
+  }
+
+  @media (max-width: 442px) {
+    width: 42%;
+  }
+
+  @media (max-width: 360px) {
+    flex: 0 0 100%;
   }
 `;
 

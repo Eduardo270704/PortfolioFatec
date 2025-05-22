@@ -1,10 +1,4 @@
-import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
 import { MyHeader } from "./components";
 import { Contact, Projects, Resume } from "./Pages";
@@ -14,16 +8,16 @@ import { LanguageProvider } from "./context";
 const App = () => {
   return (
     <LanguageProvider>
-      <Router>
-        <GlobalStyle />
-        <MyHeader />
-        <Routes>
-          <Route path="/" element={<Resume />} />
-          <Route path="/resume" element={<Navigate to="/" replace />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/contact" element={<Contact />} />
-        </Routes>
-      </Router>
+        <HashRouter>
+          <GlobalStyle />
+          <MyHeader />
+          <Routes>
+            <Route path="/" element={<Resume />} />
+            <Route path="/resume" element={<Navigate to="/" replace />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/contact" element={<Contact />} />
+          </Routes>
+        </HashRouter>
     </LanguageProvider>
   );
 };

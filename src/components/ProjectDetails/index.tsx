@@ -6,12 +6,12 @@ import { useTranslation } from "../../hooks";
 
 const ProjectDetails = ({ project }: any) => {
   const { t } = useTranslation();
-  
+
   return (
     <ContainerContent>
       <HW>{project.name}</HW>
       <ContentCenter>
-        <GifPresentation src={project.gif} />
+        <GifPresentation src={project.gif} loading="lazy" />
         <HorizontalRule />
         <DescriptionCenter>
           <Description>{project.description}</Description>

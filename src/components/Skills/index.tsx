@@ -6,6 +6,8 @@ import { useTranslation } from "../../hooks";
 const Skills = () => {
   const { t } = useTranslation();
 
+  const dashText = (text: string) => `-\u00A0${text}`;
+
   return (
     <ContainerContent>
       <ContentCenter>
@@ -35,50 +37,50 @@ const Skills = () => {
                 <Info>{t("knowledges")}</Info>
               </Line>
               <LineItems>
-                <Item>- {t("react")}</Item>
-                <Item>- {t("reactNative")}</Item>
+                <Item>{dashText(t("react"))}</Item>
+                <Item>{dashText(t("reactNative"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("typescript")}</Item>
-                <Item>- {t("javascript")}</Item>
+                <Item>{dashText(t("typescript"))}</Item>
+                <Item>{dashText(t("javascript"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("html")}</Item>
-                <Item>- {t("css")}</Item>
+                <Item>{dashText(t("html"))}</Item>
+                <Item>{dashText(t("css"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("cpp")}</Item>
-                <Item>- {t("arduino")}</Item>
+                <Item>{dashText(t("cpp"))}</Item>
+                <Item>{dashText(t("arduino"))}</Item>
               </LineItems>
             </KnowledgesContainer>
             <HorizontalRuleKnowledge />
             <KnowledgesContainer>
               <Line>{t("languages")}</Line>
               <LineItems>
-                <Item>- {t("portuguese")}</Item>
-                <Item>- {t("english")}</Item>
+                <Item>{dashText(t("portuguese"))}</Item>
+                <Item>{dashText(t("english"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("spanish")}</Item>
+                <Item>{dashText(t("spanish"))}</Item>
               </LineItems>
             </KnowledgesContainer>
             <HorizontalRuleKnowledge />
             <KnowledgesContainer>
               <Line>{t("softSkills")}</Line>
               <LineItems>
-                <Item>- {t("creativity")}</Item>
-                <Item>- {t("organized")}</Item>
+                <Item>{dashText(t("creativity"))}</Item>
+                <Item>{dashText(t("organized"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("leadership")}</Item>
-                <Item>- {t("initiative")}</Item>
+                <Item>{dashText(t("leadership"))}</Item>
+                <Item>{dashText(t("initiative"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("workUnderPressure")}</Item>
-                <Item>- {t("dedication")}</Item>
+                <Item>{dashText(t("workUnderPressure"))}</Item>
+                <Item>{dashText(t("dedication"))}</Item>
               </LineItems>
               <LineItems>
-                <Item>- {t("problemSolving")}</Item>
+                <Item>{dashText(t("problemSolving"))}</Item>
               </LineItems>
             </KnowledgesContainer>
           </ScrollContainer>
@@ -113,6 +115,10 @@ const FirstLine = styled.div`
 
 const Info = styled.div`
   font-weight: 400;
+
+  @media (max-width: 820px) {
+    flex: 1;
+  }
 `;
 
 const HorizontalRule = styled.hr`
@@ -139,11 +145,12 @@ const Line = styled.div`
 
 const ScrollContainer = styled.div`
   max-height: 400px;
+  height: 390px;
   overflow-y: auto;
-  margin-bottom: -20px;
+  margin-bottom: 40px;
   margin-top: 0px;
+  padding-bottom: -24px;
 
-  /* Custom scrollbar */
   &::-webkit-scrollbar {
     width: 8px;
   }
@@ -155,20 +162,37 @@ const ScrollContainer = styled.div`
     background: #504d3e;
     border-radius: 8px;
   }
+
+  @media (max-width: 820px) {
+    max-height: none;
+    margin-bottom: 20px;
+  }
 `;
 
 const KnowledgesContainer = styled.div`
   width: 90%;
+  padding-bottom: 30px;
 `;
 
 const LineItems = styled.div`
-  display: Flex;
+  display: flex;
   justify-content: space-between;
   width: 100%;
+  margin-top: 12px;
+  padding-left: 12px;
+
+  @media (max-width: 398px) {
+    width: 110%;
+  }
 `;
 
-const Item = styled.ul`
+const Item = styled.div`
   font-weight: 400;
+  list-style: none;
+
+  @media (max-width: 480px) {
+    width: 50%;
+  }
 `;
 
 export default Skills;
