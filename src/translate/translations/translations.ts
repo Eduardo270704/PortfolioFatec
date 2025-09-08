@@ -17,7 +17,7 @@ export const translations = {
     college: "College",
     collegeName: "Fatec Jacareí",
     conclusion: "Conclusion",
-    conclusionDate: "2026/June",
+    conclusionDate: "2025/Dec",
     knowledges: "Knowledges and experiences:",
     languages: "Languages:",
     softSkills: "Soft Skills:",
@@ -93,7 +93,7 @@ export const translations = {
     college: "Faculdade",
     collegeName: "Fatec Jacareí",
     conclusion: "Conclusão",
-    conclusionDate: "Jun/2026",
+    conclusionDate: "Dez/2025",
     knowledges: "Conhecimentos e experiências:",
     languages: "Idiomas:",
     softSkills: "Soft Skills:",
@@ -132,7 +132,7 @@ export const translations = {
     agileDevelopmentDescription:
       "Com base no desafio apresentado pela FATEC, a solução proposta pela The PerryDev é criar um site institucional para treinamento em metodologia ágil e seus artefatos, permitindo que os funcionários da FATEC padronizem o desenvolvimento de seus projetos e disseminem a metodologia após aprendê-la.",
     agileDevelopmentMyFunction:
-      "Neste projeto, contribuí para o design e desenvolvimento do frontend usando HTML, CSS e Bootstrap. Fui responsável por codificar várias seções do site, focando em criar uma experiência responsiva e amigável ao usuário. Além disso, otimizei e limpei o código para melhorar o desempenho e a manutenção. Embora a maior parte do projeto tenha sido baseada em HTML e CSS, utilizei JavaScript de forma pontual para funcionalidades específicas. Este site serve como uma ferramenta educacional para os funcionários da FATEC aprenderem sobre a metodologia ágil e seus artefatos, permitindo que padronizem seus processos de desenvolvimento de projetos e disseminem a metodologia após adquirirem o conhecimento necessário.",
+      "Neste projeto, contribuí para o design e desenvolvimento do frontend usando HTML, CSS e Bootstrap. Fui responsável por codificar várias seções do site, focando em criar uma experiência responsiva e amigável ao usuário. Além disso, otimizei e limpei o código para melhorar o desempenho e a manutenção. Embora a maior parte do projeto tenha sido baseado em HTML e CSS, utilizei JavaScript de forma pontual para funcionalidades específicas. Este site serve como uma ferramenta educacional para os funcionários da FATEC aprenderem sobre a metodologia ágil e seus artefatos, permitindo que padronizem seus processos de desenvolvimento de projetos e disseminem a metodologia após adquirirem o conhecimento necessário.",
     bikePassDescription:
       "Neste projeto, assumi um papel de liderança, supervisionando tanto o desenvolvimento frontend quanto backend como desenvolvedor full-stack. Fui responsável por codificar diversas páginas do frontend e desempenhei um papel fundamental no planejamento e desenvolvimento da arquitetura do backend. Além das minhas contribuições técnicas, orientei meus colegas nos desafios do projeto, ajudando-os a superar obstáculos enquanto equilibravam suas responsabilidades acadêmicas. Essa experiência me permitiu demonstrar minhas habilidades de liderança e capacidade de gerenciar tarefas complexas em toda a pilha de desenvolvimento, garantindo o sucesso do projeto tanto do ponto de vista técnico quanto da colaboração em equipe.",
     bikePassMyFunction:
@@ -169,7 +169,7 @@ export const translations = {
     college: "Universidad",
     collegeName: "Fatec Jacareí",
     conclusion: "Conclusión",
-    conclusionDate: "Jun/2026",
+    conclusionDate: "Dic/2025",
     knowledges: "Conocimientos y experiencias:",
     languages: "Idiomas:",
     softSkills: "Habilidades Blandas:",
