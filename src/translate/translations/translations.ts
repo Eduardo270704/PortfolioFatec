@@ -54,7 +54,7 @@ export const translations = {
     selectProject: "Select a project to see details.",
     agileDevelopmentTitle: "Agile Development Institutional Website",
     agileDevelopmentDescription:
-      "Based on the challenge presented by FATEC, the solution proposed by The Perry Devs is to create an institutional website for training in agile methodology and its artifacts, enabling FATEC employees to standardize the development of their projects and propagate the methodology after learning it.",
+      "Based on the challenge presented by FATEC, the solution proposed by The PerryDev is to create an institutional website for training in agile methodology and its artifacts, enabling FATEC employees to standardize the development of their projects and propagate the methodology after learning it.",
     agileDevelopmentMyFunction:
       "For this project, I contributed to the design and development of the frontend using HTML, CSS, and Bootstrap. I was responsible for coding several sections of the website, focusing on creating a responsive and user-friendly experience. Additionally, I optimized and cleaned up the code to improve performance and maintainability. While most of the project relied on HTML and CSS, I used JavaScript sparingly for specific functionalities. This website serves as an educational tool for FATEC employees to learn about agile methodology and its artifacts, enabling them to standardize their project development processes and spread the methodology after gaining the necessary knowledge.",
     bikePassDescription:
@@ -62,13 +62,17 @@ export const translations = {
     bikePassMyFunction:
       "In this project, I took on a leadership role, overseeing both frontend and backend development as a full-stack developer. I was responsible for coding various frontend pages and played a key role in planning and developing the backend architecture. In addition to my technical contributions, I guided my colleagues through the project's challenges, helping them overcome obstacles while balancing their academic responsibilities. This experience allowed me to demonstrate my leadership skills and ability to manage complex tasks across the full development stack, ensuring the project's success from both a technical and team collaboration standpoint.",
     dashboardVisionaDescription:
-      "Based on the request presented by the company Visiona, the solution proposed by The Perry Devs is to create a platform for the management of mapping projects carried out by Visiona.",
+      "Based on the request presented by the company Visiona, the solution proposed by The PerryDev is to create a platform for the management of mapping projects carried out by Visiona.",
     dashboardVisionaMyFunction:
       "In this project, I took on the role of Product Owner, where I was responsible for all client meetings and acted as the spokesperson for my team, ensuring clear communication of the client's needs and expectations. On the development side, I contributed by creating several frontend components and was responsible for implementing the dark mode feature, enhancing the user experience. My role as Product Owner allowed me to bridge the gap between the client and the development team, ensuring that the project's vision and requirements were effectively translated into the final product.",
     nutriPerryDescription:
-      "Based on the challenge presented by the company FATEC, the solution proposed by The Perry Devs consists of creating a mobile application where the user can monitor the calories consumed and burned throughout the day.",
+      "Based on the challenge presented by the company FATEC, the solution proposed by The PerryDev consists of creating a mobile application where the user can monitor the calories consumed and burned throughout the day.",
     nutriPerryMyFunction:
       "In this project, I was responsible for frontend development and provided assistance in the backend. I developed several screens and components, marking my first experience with mobile development. This project allowed me to gain valuable exposure to mobile technologies, and I played a key role in building the user interface, ensuring it was intuitive and responsive. My work involved collaborating closely with the team to deliver a seamless experience, while also learning and adapting to the challenges of mobile development.",
+    hyperionDescription:
+      "Based on the challenge presented by Visiona, the solution proposed by The PerryDev is Hyperion, a web platform for wildfire monitoring using data provided by INPE.",
+    hyperionMyFunction:
+      "In the Hyperion Visiona project, I took on a leadership role, being responsible for coordinating and organizing the team, as well as maintaining direct communication with the client. I developed most of the frontend, provided support in backend development, and contributed to the project’s documentation, ensuring clarity and consistency. I also collaborated in the machine learning component, helping bridge the technical integration between different areas.",
     viewOnGitHub: "View on GitHub",
   },
   pt: {
@@ -126,7 +130,7 @@ export const translations = {
     selectProject: "Selecione um projeto para ver detalhes.",
     agileDevelopmentTitle: "Site Institucional de Desenvolvimento Ágil",
     agileDevelopmentDescription:
-      "Com base no desafio apresentado pela FATEC, a solução proposta pela The Perry Devs é criar um site institucional para treinamento em metodologia ágil e seus artefatos, permitindo que os funcionários da FATEC padronizem o desenvolvimento de seus projetos e disseminem a metodologia após aprendê-la.",
+      "Com base no desafio apresentado pela FATEC, a solução proposta pela The PerryDev é criar um site institucional para treinamento em metodologia ágil e seus artefatos, permitindo que os funcionários da FATEC padronizem o desenvolvimento de seus projetos e disseminem a metodologia após aprendê-la.",
     agileDevelopmentMyFunction:
       "Neste projeto, contribuí para o design e desenvolvimento do frontend usando HTML, CSS e Bootstrap. Fui responsável por codificar várias seções do site, focando em criar uma experiência responsiva e amigável ao usuário. Além disso, otimizei e limpei o código para melhorar o desempenho e a manutenção. Embora a maior parte do projeto tenha sido baseada em HTML e CSS, utilizei JavaScript de forma pontual para funcionalidades específicas. Este site serve como uma ferramenta educacional para os funcionários da FATEC aprenderem sobre a metodologia ágil e seus artefatos, permitindo que padronizem seus processos de desenvolvimento de projetos e disseminem a metodologia após adquirirem o conhecimento necessário.",
     bikePassDescription:
@@ -134,13 +138,17 @@ export const translations = {
     bikePassMyFunction:
       "Neste projeto, assumi um papel de liderança, supervisionando tanto o desenvolvimento frontend quanto backend como desenvolvedor full-stack. Fui responsável por codificar diversas páginas do frontend e desempenhei um papel fundamental no planejamento e desenvolvimento da arquitetura do backend. Além das minhas contribuições técnicas, orientei meus colegas nos desafios do projeto, ajudando-os a superar obstáculos enquanto equilibravam suas responsabilidades acadêmicas. Essa experiência me permitiu demonstrar minhas habilidades de liderança e capacidade de gerenciar tarefas complexas em toda a pilha de desenvolvimento, garantindo o sucesso do projeto tanto do ponto de vista técnico quanto da colaboração em equipe.",
     dashboardVisionaDescription:
-      "Com base na solicitação apresentada pela empresa Visiona, a solução proposta pela The Perry Devs é criar uma plataforma para a gestão de projetos de mapeamento realizados pela Visiona.",
+      "Com base na solicitação apresentada pela empresa Visiona, a solução proposta pela The PerryDev é criar uma plataforma para a gestão de projetos de mapeamento realizados pela Visiona.",
     dashboardVisionaMyFunction:
       "Neste projeto, atuei como Product Owner, sendo responsável por todas as reuniões com o cliente e atuando como porta-voz da minha equipe, garantindo a comunicação clara das necessidades e expectativas do cliente. No lado do desenvolvimento, contribuí criando diversos componentes do frontend e fui responsável por implementar o modo escuro, aprimorando a experiência do usuário. Meu papel como Product Owner me permitiu conectar o cliente e a equipe de desenvolvimento, garantindo que a visão e os requisitos do projeto fossem traduzidos efetivamente no produto final.",
     nutriPerryDescription:
-      "Com base no desafio apresentado pela empresa FATEC, a solução proposta pela The Perry Devs consiste em criar um aplicativo móvel onde o usuário pode monitorar as calorias consumidas e queimadas ao longo do dia.",
+      "Com base no desafio apresentado pela empresa FATEC, a solução proposta pela The PerryDev consiste em criar um aplicativo móvel onde o usuário pode monitorar as calorias consumidas e queimadas ao longo do dia.",
     nutriPerryMyFunction:
       "Neste projeto, fui responsável pelo desenvolvimento frontend e forneci assistência no backend. Desenvolvi diversas telas e componentes, marcando minha primeira experiência com desenvolvimento mobile. Esse projeto me permitiu ganhar uma valiosa exposição a tecnologias móveis e desempenhei um papel fundamental na construção da interface do usuário, garantindo que fosse intuitiva e responsiva. Meu trabalho envolveu colaborar de perto com a equipe para proporcionar uma experiência fluida, enquanto também aprendia e me adaptava aos desafios do desenvolvimento mobile.",
+    hyperionDescription:
+      "Com base no desafio apresentado pela empresa Visiona, a solução proposta pela The PerryDev é o Hyperion, uma plataforma web para monitoramento de queimadas a partir de informações disponibilizadas pelo INPE.",
+    hyperionMyFunction:
+      "No projeto Hyperion Visiona, atuei em uma posição de liderança, sendo responsável por coordenar e organizar o grupo, além de estabelecer a comunicação direta com o cliente. Desenvolvi a maior parte do frontend, forneci assistência no backend e participei da documentação do projeto, garantindo clareza e padronização. Também colaborei no desenvolvimento da parte de machine learning, contribuindo para a integração técnica entre as diferentes áreas.",
     viewOnGitHub: "Ver no GitHub",
   },
   es: {
@@ -198,7 +206,7 @@ export const translations = {
     selectProject: "Seleccione un proyecto para ver detalles.",
     agileDevelopmentTitle: "Sitio Web Institucional de Desarrollo Ágil",
     agileDevelopmentDescription:
-      "Basado en el desafío presentado por FATEC, la solución propuesta por The Perry Devs es crear un sitio web institucional para la capacitación en metodología ágil y sus artefactos, permitiendo que los empleados de FATEC estandaricen el desarrollo de sus proyectos y difundan la metodología después de aprenderla.",
+      "Basado en el desafío presentado por FATEC, la solución propuesta por The PerryDev es crear un sitio web institucional para la capacitación en metodología ágil y sus artefactos, permitiendo que los empleados de FATEC estandaricen el desarrollo de sus proyectos y difundan la metodología después de aprenderla.",
     agileDevelopmentMyFunction:
       "En este proyecto, contribuí al diseño y desarrollo del frontend utilizando HTML, CSS y Bootstrap. Fui responsable de codificar varias secciones del sitio web, centrándome en crear una experiencia receptiva y fácil de usar. Además, optimicé y limpié el código para mejorar el rendimiento y la mantenibilidad. Aunque la mayor parte del proyecto se basó en HTML y CSS, utilicé JavaScript de manera puntual para funcionalidades específicas. Este sitio web sirve como una herramienta educativa para que los empleados de FATEC aprendan sobre la metodología ágil y sus artefactos, permitiéndoles estandarizar sus procesos de desarrollo de proyectos y difundir la metodología después de adquirir el conocimiento necesario.",
     bikePassDescription:
@@ -206,13 +214,17 @@ export const translations = {
     bikePassMyFunction:
       "En este proyecto, asumí un rol de liderazgo, supervisando tanto el desarrollo frontend como backend como desarrollador full-stack. Fui responsable de codificar varias páginas del frontend y desempeñé un papel clave en la planificación y desarrollo de la arquitectura del backend. Además de mis contribuciones técnicas, guié a mis compañeros a través de los desafíos del proyecto, ayudándolos a superar obstáculos mientras equilibraban sus responsabilidades académicas. Esta experiencia me permitió demostrar mis habilidades de liderazgo y mi capacidad para gestionar tareas complejas en toda la pila de desarrollo, asegurando el éxito del proyecto tanto desde un punto de vista técnico como de colaboración en equipo.",
     dashboardVisionaDescription:
-      "Basado en la solicitud presentada por la empresa Visiona, la solución propuesta por The Perry Devs es crear una plataforma para la gestión de proyectos de mapeo realizados por Visiona.",
+      "Basado en la solicitud presentada por la empresa Visiona, la solución propuesta por The PerryDev es crear una plataforma para la gestión de proyectos de mapeo realizados por Visiona.",
     dashboardVisionaMyFunction:
       "En este proyecto, asumí el rol de Product Owner, siendo responsable de todas las reuniones con el cliente y actuando como el portavoz de mi equipo, asegurando la comunicación clara de las necesidades y expectativas del cliente. En el lado del desarrollo, contribuí creando varios componentes del frontend y fui responsable de implementar el modo oscuro, mejorando la experiencia del usuario. Mi rol como Product Owner me permitió conectar al cliente con el equipo de desarrollo, asegurando que la visión y los requisitos del proyecto se tradujeran efectivamente en el producto final.",
     nutriPerryDescription:
-      "Basado en el desafío presentado por la empresa FATEC, la solución propuesta por The Perry Devs consiste en crear una aplicación móvil donde el usuario puede monitorear las calorías consumidas y quemadas a lo largo del día.",
+      "Basado en el desafío presentado por la empresa FATEC, la solución propuesta por The PerryDev consiste en crear una aplicación móvil donde el usuario puede monitorear las calorías consumidas y quemadas a lo largo del día.",
     nutriPerryMyFunction:
       "En este proyecto, fui responsable del desarrollo frontend y brindé asistencia en el backend. Desarrollé varias pantallas y componentes, marcando mi primera experiencia con el desarrollo móvil. Este proyecto me permitió obtener una valiosa exposición a tecnologías móviles y desempeñé un papel clave en la construcción de la interfaz de usuario, asegurando que fuera intuitiva y receptiva. Mi trabajo implicó colaborar estrechamente con el equipo para ofrecer una experiencia fluida, mientras aprendía y me adaptaba a los desafíos del desarrollo móvil.",
+    hyperionDescription:
+      "Con base en el desafío presentado por la empresa Visiona, la solución propuesta por The PerryDev es Hyperion, una plataforma web para el monitoreo de incendios forestales a partir de la información proporcionada por el INPE.",
+    hyperionMyFunction:
+      "En el proyecto Hyperion Visiona, desempeñé un rol de liderazgo, siendo responsable de coordinar y organizar al equipo, además de establecer la comunicación directa con el cliente. Desarrollé la mayor parte del frontend, brindé asistencia en el backend y participé en la documentación del proyecto, asegurando claridad y estandarización. También colaboré en el desarrollo de la parte de machine learning, contribuyendo a la integración técnica entre las diferentes áreas.",
     viewOnGitHub: "Ver en GitHub",
   },
 };

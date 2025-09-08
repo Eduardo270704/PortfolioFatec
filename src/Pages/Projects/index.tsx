@@ -6,7 +6,7 @@ import {
   ToolsList,
 } from "../../components";
 import styled from "styled-components";
-import { bikepass, nutriperry, SIDA, visionaDashboard } from "../../assets";
+import { bikepass, hyperionVisiona, nutriperry, SIDA, visionaDashboard } from "../../assets";
 import { useTranslation } from "../../hooks";
 
 const Projects = () => {
@@ -94,6 +94,27 @@ const Projects = () => {
         "React Native",
         "MongoDB",
         "Expo Go",
+        "Node.js",
+        "StyleSheet",
+        "VS Code",
+        "Microsoft Teams",
+        "Canva",
+      ],
+    },
+    {
+      id: 5,
+      name: "Hyperion Visiona",
+      description: t("nutriPerryDescription"),
+      myFunction: t("nutriPerryMyFunction"),
+      repository: "https://github.com/ThePerryDev/Hyperion-project",
+      gif: hyperionVisiona,
+      tools: [
+        "Figma",
+        "GitHub",
+        "Python",
+        "TypeScript",
+        "React",
+        "MongoDB",
         "Node.js",
         "StyleSheet",
         "VS Code",
