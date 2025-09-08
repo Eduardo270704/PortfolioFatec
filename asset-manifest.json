@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.6b4e7818.js",
+    "main.js": "./static/js/main.bff141eb.js",
     "static/media/SIDA.gif": "./static/media/SIDA.4c45adc863d6e58b1b91.gif",
     "static/media/bikepass.gif": "./static/media/bikepass.7c76a26442e07189ddfe.gif",
     "static/media/FOTRodinProEB.otf": "./static/media/FOTRodinProEB.50ee472ff88172730f64.otf",
     "static/media/nutriperry.gif": "./static/media/nutriperry.fc14b102697d75b445d9.gif",
+    "static/media/hyperionVisiona.jpg": "./static/media/hyperionVisiona.2077e5d828d4cc9c92a5.jpg",
     "static/media/perfil.jpg": "./static/media/perfil.91f05912c6c7ed9a6991.jpg",
     "static/media/visionaDashboard.png": "./static/media/visionaDashboard.29d47aab40ef5d9250a3.png",
     "index.html": "./index.html",
-    "main.6b4e7818.js.map": "./static/js/main.6b4e7818.js.map"
+    "main.bff141eb.js.map": "./static/js/main.bff141eb.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b4e7818.js"
+    "static/js/main.bff141eb.js"
   ]
 }
