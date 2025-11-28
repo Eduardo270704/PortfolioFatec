@@ -6,7 +6,7 @@ import {
   ToolsList,
 } from "../../components";
 import styled from "styled-components";
-import { bikepass, hyperionVisiona, nutriperry, SIDA, visionaDashboard } from "../../assets";
+import { bikepass, hyperionVisiona, mindCare, nutriperry, SIDA, visionaDashboard } from "../../assets";
 import { useTranslation } from "../../hooks";
 
 const Projects = () => {
@@ -128,7 +128,7 @@ const Projects = () => {
       description: t("mindCareDescription"),
       myFunction: t("mindCareDescription"),
       repository: "https://github.com/ThePerryDev/MindCare.git",
-      gif: hyperionVisiona,
+      gif: mindCare,
       tools: [
         "Figma",
         "GitHub",

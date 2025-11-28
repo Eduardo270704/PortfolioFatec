@@ -1,4 +1,4 @@
 import fonts from "./fonts/index";
-import { bikepass, hyperionVisiona, nutriperry, perfil, SIDA, visionaDashboard } from "./Images";
+import { bikepass, hyperionVisiona, mindCare, nutriperry, perfil, SIDA, visionaDashboard } from "./Images";
 
-export { bikepass, hyperionVisiona, nutriperry, fonts, perfil, SIDA, visionaDashboard };
+export { bikepass, hyperionVisiona, mindCare, nutriperry, fonts, perfil, SIDA, visionaDashboard };
