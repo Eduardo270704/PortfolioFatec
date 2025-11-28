@@ -122,6 +122,27 @@ const Projects = () => {
         "Canva",
       ],
     },
+        {
+      id: 6,
+      name: "MindCare",
+      description: t("mindCareDescription"),
+      myFunction: t("mindCareDescription"),
+      repository: "https://github.com/ThePerryDev/MindCare.git",
+      gif: hyperionVisiona,
+      tools: [
+        "Figma",
+        "GitHub",
+        "Python",
+        "TypeScript",
+        "React",
+        "MongoDB",
+        "Node.js",
+        "StyleSheet",
+        "VS Code",
+        "Microsoft Teams",
+        "Canva",
+      ],
+    },
   ];
 
   const selectedProject = projects.find(

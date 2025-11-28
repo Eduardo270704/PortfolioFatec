@@ -73,6 +73,10 @@ export const translations = {
       "Based on the challenge presented by Visiona, the solution proposed by The PerryDev is Hyperion, a web platform for wildfire monitoring using data provided by INPE.",
     hyperionMyFunction:
       "In the Hyperion Visiona project, I took on a leadership role, being responsible for coordinating and organizing the team, as well as maintaining direct communication with the client. I developed most of the frontend, provided support in backend development, and contributed to the project’s documentation, ensuring clarity and consistency. I also collaborated in the machine learning component, helping bridge the technical integration between different areas.",
+    mindCareDescription:
+      "Based on the challenge proposed by FATEC, the team The Perry Dev developed MindCare, a mobile application that allows users to track their mood over time and receive habit recommendations focused on improving well-being. The project was carried out using agile methodology and the Scrum framework, promoting proactivity, autonomy, collaboration, and continuous value delivery.",
+    mindCareMyFunction:
+      "In the MindCare project, I served as the SCRUM Master, responsible for organizing the team, facilitating ceremonies, and ensuring alignment across deliveries. I contributed significantly to the frontend development and performed the integration between the backend and frontend. In addition, I made minor adjustments to the AI components and backend, ensuring proper functionality and technical cohesion throughout the project.",
     viewOnGitHub: "View on GitHub",
   },
   pt: {
@@ -149,6 +153,10 @@ export const translations = {
       "Com base no desafio apresentado pela empresa Visiona, a solução proposta pela The PerryDev é o Hyperion, uma plataforma web para monitoramento de queimadas a partir de informações disponibilizadas pelo INPE.",
     hyperionMyFunction:
       "No projeto Hyperion Visiona, atuei em uma posição de liderança, sendo responsável por coordenar e organizar o grupo, além de estabelecer a comunicação direta com o cliente. Desenvolvi a maior parte do frontend, forneci assistência no backend e participei da documentação do projeto, garantindo clareza e padronização. Também colaborei no desenvolvimento da parte de machine learning, contribuindo para a integração técnica entre as diferentes áreas.",
+    mindCareDescription:
+      "A partir do desafio proposto pela FATEC, a equipe The Perry Dev desenvolveu o MindCare, um aplicativo móvel que permite ao usuário monitorar seu humor ao longo do tempo e receber sugestões de hábitos focados na melhoria do bem-estar. O projeto foi conduzido utilizando a metodologia ágil e o framework Scrum, promovendo proatividade, autonomia, colaboração e entrega contínua de valor.",
+    mindCareMyFunction:
+      "No projeto MindCare, atuei como SCRUM Master, sendo responsável por organizar a equipe, facilitar cerimônias e garantir o alinhamento entre as entregas. Contribuí significativamente no desenvolvimento do frontend e realizei a integração entre o backend e o frontend do aplicativo. Além disso, fiz ajustes pontuais na parte de IA e no backend, assegurando o bom funcionamento e a coesão técnica do projeto como um todo.",
     viewOnGitHub: "Ver no GitHub",
   },
   es: {
@@ -225,6 +233,10 @@ export const translations = {
       "Con base en el desafío presentado por la empresa Visiona, la solución propuesta por The PerryDev es Hyperion, una plataforma web para el monitoreo de incendios forestales a partir de la información proporcionada por el INPE.",
     hyperionMyFunction:
       "En el proyecto Hyperion Visiona, desempeñé un rol de liderazgo, siendo responsable de coordinar y organizar al equipo, además de establecer la comunicación directa con el cliente. Desarrollé la mayor parte del frontend, brindé asistencia en el backend y participé en la documentación del proyecto, asegurando claridad y estandarización. También colaboré en el desarrollo de la parte de machine learning, contribuyendo a la integración técnica entre las diferentes áreas.",
+    mindCareDescription:
+      "A partir del desafío propuesto por FATEC, el equipo The Perry Dev desarrolló MindCare, una aplicación móvil que permite al usuario monitorear su estado de ánimo a lo largo del tiempo y recibir recomendaciones de hábitos orientadas a mejorar el bienestar. El proyecto fue llevado a cabo utilizando metodología ágil y el framework Scrum, fomentando la proactividad, la autonomía, la colaboración y la entrega continua de valor.",
+    mindCareMyFunction:
+      "En el proyecto MindCare, actué como SCRUM Master, siendo responsable de organizar al equipo, facilitar las ceremonias y asegurar el alineamiento de las entregas. Contribuí de forma significativa al desarrollo del frontend e hice la integración entre el backend y el frontend. Además, realicé ajustes puntuales en la parte de IA y en el backend, garantizando el buen funcionamiento y la cohesión técnica de todo el proyecto.",
     viewOnGitHub: "Ver en GitHub",
   },
 };
